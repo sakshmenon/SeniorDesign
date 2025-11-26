@@ -47,3 +47,13 @@ Introducing Gradly. Restructuring the way students plan their academic journey a
 <br>
 
 ## 9. Budget
+
+All of our code has been coded by our team keeping costs low. As for donations, no items have been donated.
+
+## 10. Appendix
+
+Code:
+(Directory)[https://github.com/sakshmenon/SeniorDesign/tree/main/Code]
+Presentation:
+(Demo)[https://drive.google.com/drive/folders/13ipcjsv3QfkdQohXBPkf2XWSXrBQDBCG]
+
