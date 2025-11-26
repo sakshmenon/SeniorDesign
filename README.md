@@ -60,6 +60,10 @@ _Notes_: Each story will be refined into acceptance criteria and test cases in l
 
 Design Diagrams - Refer to the images below
 
+![Diagram 0](https://github.com/sakshmenon/SeniorDesign/blob/main/Assets/D0.png)
+![Diagram 1](https://github.com/sakshmenon/SeniorDesign/blob/main/Assets/D1.png)
+![Diagram 2](https://github.com/sakshmenon/SeniorDesign/blob/main/Assets/D2.png)
+
 <br>
 
 ## 4. Project Tasks and Timeline
