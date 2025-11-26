@@ -118,7 +118,7 @@ university learning experience.
 
 ## 6. Powerpoint Presentation
 
-Powerpoint Slides link -
+[Powerpoint Slides link](https://drive.google.com/drive/folders/13ipcjsv3QfkdQohXBPkf2XWSXrBQDBCG)
 
 <br>
 
