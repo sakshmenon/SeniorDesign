@@ -86,7 +86,7 @@ Design Diagrams - Refer to the images below
 16. **Prepare** project documentation, including technical design, user guide, and advisor report. *(Responsible: Both)*  
 17. **Present** the completed prototype and findings during the final senior design presentation. *(Responsible: Both)*
 
-(Link to Timeline and Effort Matrix doc -)[https://github.com/sakshmenon/SeniorDesign/blob/main/Final%20Report%20Docs/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.pdf]
+[Link to Timeline and Effort Matrix doc -](https://github.com/sakshmenon/SeniorDesign/blob/main/Final%20Report%20Docs/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.pdf)
 
 ## 9. Budget
 
@@ -95,8 +95,8 @@ All of our code has been coded by our team keeping costs low. As for donations, 
 ## 10. Appendix
 
 Code:
-(Directory)[https://github.com/sakshmenon/SeniorDesign/tree/main/Code]
+[Directory](https://github.com/sakshmenon/SeniorDesign/tree/main/Code)
 
 Presentation:
-(Demo)[https://drive.google.com/drive/folders/13ipcjsv3QfkdQohXBPkf2XWSXrBQDBCG]
+[Demo](https://drive.google.com/drive/folders/13ipcjsv3QfkdQohXBPkf2XWSXrBQDBCG)
 
