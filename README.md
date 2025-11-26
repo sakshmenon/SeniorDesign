@@ -37,4 +37,13 @@ Introducing Gradly. Restructuring the way students plan their academic journey a
 
 <br>
 
+## 2. Project Description 
+
+#### Team Name: Gradly
+
+#### Project Topic Area:
+- This platform is an intelligent course planning tool designed to help university students map out their entire academic journey. It combines semester-by-semester scheduling with insights such as GPA averages, professor options, and personalized pathways, making it easier to stay on track toward graduation. With collaborative and social features, it not only simplifies planning but also connects students with peers, study groups, and mentoring opportunities.
+
+<br>
+
 ## 9. Budget
