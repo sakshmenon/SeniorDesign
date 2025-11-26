@@ -86,7 +86,7 @@ Design Diagrams - Refer to the images below
 16. **Prepare** project documentation, including technical design, user guide, and advisor report. *(Responsible: Both)*  
 17. **Present** the completed prototype and findings during the final senior design presentation. *(Responsible: Both)*
 
-Link to Timeline and Effort Matrix doc -
+(Link to Timeline and Effort Matrix doc -)[https://github.com/sakshmenon/SeniorDesign/blob/main/Final%20Report%20Docs/Milestones%2C%20Timeline%2C%20and%20Effort%20Matrix.pdf]
 
 ## 9. Budget
 
