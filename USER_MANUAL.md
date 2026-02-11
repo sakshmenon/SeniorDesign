@@ -67,9 +67,6 @@ The Home page is your dashboard after you sign in.
 
 If you haven’t set a major or added any classes yet, some numbers may be zero or show “Loading…”. Set your major in **Profile** and add or mark classes in **Planning** for the numbers to reflect your progress.
 
-> **[Screenshot: Home page]**  
-> *Add a screenshot of the Home dashboard with the four tiles and progress bar.*
-
 ---
 
 ## Profile
@@ -85,9 +82,6 @@ The Profile page is where you store information Gradly uses for planning and req
 - **Planned graduation semester** – The term and year you expect to graduate (e.g. Spring 2028). Required so Gradly knows how many semesters to show.
 
 Use the **term** and **year** dropdowns for the two semester fields, then click **Save profile**. Until Freshman and Graduation semesters are set, the Planning page will prompt you to complete your profile.
-
-> **[Screenshot: Profile page]**  
-> *Add a screenshot of the profile form with semester dropdowns and Save.*
 
 ---
 
@@ -125,9 +119,6 @@ On a semester card, next to a class that is *planned* (not under “Taken”), c
 - **Done** – This semester is in the past. You can only record classes as **taken** here (no “planned” list). Add past classes via search → “Add to semester” → choose this semester.
 - **Active** – Current semester. You can add planned classes and record taken classes.
 - **Plan** – Future semester. You can add and remove planned classes.
-
-> **[Screenshot: Planning page]**  
-> *Add a screenshot of the Planning page with year cards, semester cards, and the requirements panel.*
 
 ---
 
