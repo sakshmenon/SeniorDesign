@@ -51,9 +51,6 @@ npm run dev
 
 Then open **http://localhost:5173** in your browser. You should see the Gradly login page.
 
-> **[Screenshot: Login page]**  
-> *Add a screenshot of the login screen here.*
-
 ---
 
 ## Creating an account
@@ -80,9 +77,6 @@ Your profile stores information Gradly uses for planning and requirements.
    - **Planned graduation semester** – When you expect to graduate (e.g. Spring 2028).
 3. Optionally add your **major** (e.g. CS or Computer Science). This is used to show degree requirements.
 4. Click **Save profile**.
-
-> **[Screenshot: Profile form]**  
-> *Add a screenshot of the profile page with freshman/graduation semesters and major.*
 
 Until these are set, the Planning page will ask you to complete your profile first.
 
