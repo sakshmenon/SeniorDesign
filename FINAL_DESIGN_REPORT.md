@@ -7,7 +7,7 @@
 |---|---|
 | **Project Title** | Gradly — Long Term Academic Planner |
 | **Team Members** | Saksh Menon, Kshitij Maurya |
-| **Advisor / IT Team Lead** | Sonam Kandoi (Hobifresh) |
+| **Advisor / IT Team Lead** | Sonam Kandoi (HelloFresh) |
 | **GitHub Repository** | [sakshmenon/Gradly-v3](https://github.com/sakshmenon/Gradly-v3) |
 | **Report Date** | April 21, 2026 |
 
